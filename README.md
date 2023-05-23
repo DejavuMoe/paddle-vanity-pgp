@@ -5,7 +5,7 @@ Calculating vanity PGP with AI Studio.
 **Quick Start**
 
 - register an account of AI Studio
-- read **[What's This?](https://www.dejavu.moe/posts/vanity-pgp/#gpu-算号)** | **[How to use?](https://telegra.ph/Baidu-Flying-Pulp-AI-Learning-Center-PGP-Number-Counting-Tutorial-10-18)**
+- read **[What's This?](https://blog.dejavu.moe/posts/the-scientific-vanity-pgp-counting-guide/#gpu-calculation)** | **[How to use?](https://telegra.ph/Baidu-Flying-Pulp-AI-Learning-Center-PGP-Number-Counting-Tutorial-10-18)**
 - create an AI Studio Project
 
 - then edit the `run.sh`
